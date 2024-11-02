@@ -1,6 +1,5 @@
 --Sample Superstore Data Exploration and Analysis
 
-Skill Used: Join, Aggregate Functions, CTEs,Window Function.
 
 --Sales Analysis
 --Analyzing Total sales across different region
